@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Creational_Design_Pattern/Abstract_design_Pattern/Abstract_design_Pattern.iml" filepath="$PROJECT_DIR$/Creational_Design_Pattern/Abstract_design_Pattern/Abstract_design_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational_Design_Pattern/Singleton_Design_Pattern/Configuration_Manager/Configuration_Manager.iml" filepath="$PROJECT_DIR$/Creational_Design_Pattern/Singleton_Design_Pattern/Configuration_Manager/Configuration_Manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational_Design_Pattern/Singleton_Design_Pattern/Configuration_Manager_Thread_Safe/Configuration_Manager_Thread_Safe.iml" filepath="$PROJECT_DIR$/Creational_Design_Pattern/Singleton_Design_Pattern/Configuration_Manager_Thread_Safe/Configuration_Manager_Thread_Safe.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational_Design_Pattern/Creational_Design_Pattern.iml" filepath="$PROJECT_DIR$/Creational_Design_Pattern/Creational_Design_Pattern.iml" />
@@ -10,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Creational_Design_Pattern/Factory_Design_Pattern/Factory_Design_Pattern.iml" filepath="$PROJECT_DIR$/Creational_Design_Pattern/Factory_Design_Pattern/Factory_Design_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational_Design_Pattern/Singleton_Design_Pattern/Singleton_Design_Pattern.iml" filepath="$PROJECT_DIR$/Creational_Design_Pattern/Singleton_Design_Pattern/Singleton_Design_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational_Design_Pattern/Factory_Design_Pattern/VehicalFactory/VehicleFactory.iml" filepath="$PROJECT_DIR$/Creational_Design_Pattern/Factory_Design_Pattern/VehicalFactory/VehicleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational_Design_Pattern/Abstract_design_Pattern/Vehicle_Factory/Vehicle_Factory.iml" filepath="$PROJECT_DIR$/Creational_Design_Pattern/Abstract_design_Pattern/Vehicle_Factory/Vehicle_Factory.iml" />
     </modules>
   </component>
 </project>
