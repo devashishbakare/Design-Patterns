@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/Design Patterns.iml" filepath="$PROJECT_DIR$/Design Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational_Design_Pattern/Factory_Design_Pattern/DocumentFactory/DocumentFactory.iml" filepath="$PROJECT_DIR$/Creational_Design_Pattern/Factory_Design_Pattern/DocumentFactory/DocumentFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational_Design_Pattern/Factory_Design_Pattern/Factory_Design_Pattern.iml" filepath="$PROJECT_DIR$/Creational_Design_Pattern/Factory_Design_Pattern/Factory_Design_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural_Design_patterns/Adapter_Design_Pattern/LegacyPrinterToModernPrinter/LegacyPrinterToModernPrinter.iml" filepath="$PROJECT_DIR$/Structural_Design_patterns/Adapter_Design_Pattern/LegacyPrinterToModernPrinter/LegacyPrinterToModernPrinter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational_Design_Pattern/Singleton_Design_Pattern/Singleton_Design_Pattern.iml" filepath="$PROJECT_DIR$/Creational_Design_Pattern/Singleton_Design_Pattern/Singleton_Design_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structural_Design_patterns/Structural_Design_patterns.iml" filepath="$PROJECT_DIR$/Structural_Design_patterns/Structural_Design_patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creational_Design_Pattern/Factory_Design_Pattern/VehicalFactory/VehicleFactory.iml" filepath="$PROJECT_DIR$/Creational_Design_Pattern/Factory_Design_Pattern/VehicalFactory/VehicleFactory.iml" />
